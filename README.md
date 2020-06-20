@@ -2,7 +2,7 @@
 A simple work day schedule planner application that allows the users to save events for each working hours from 9am-5pm
 
 ## Application Launch
-Please use the link [here]( https://zanhong.github.io/5-work-day-scheduler/)
+Please use the link [here](https://zanhong.github.io/5-work-day-scheduler/)
 
 ## Description
 - This application allows users to save entered events by pressing the "Save" button with a floppy disc icon
